@@ -1,0 +1,39 @@
+.tituloIndex{
+    color: rgb(98, 98, 233); 
+    font-size: 80px;
+ }
+.tituloAlbum{
+    color: rgb(248, 244, 9);
+    font-size: 80px;
+}
+
+ /** estilos del body
+ *   todo centrado
+ *   imagen completa de fondo 
+ */
+ body{
+     text-align: center;
+     background-image: url(../img/fondo1.jpg);
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+     background-size: cover; 
+    
+ }
+ p{
+    color: rgb(255, 255, 255); 
+    font-size: 30px;
+    text-align: justify;
+ }
+ a{
+     color: aliceblue;
+ }
+
+ .imagenTitulo{
+     width: 200px;
+     height: 300px;
+ }
+
+ .imagenInfo{
+    width: 100px;
+    height: 300px;
+}
